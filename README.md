@@ -23,6 +23,13 @@ It's programmed using an Arduino Uno R3 board and 5 SG90 Micro Servomotors.
 - A bunch of cables, 2.5m and 3m screws
 - ...and duck tape...
 
+## Original work:
+
+The robot is printed based on the following:
+- [https://www.thingiverse.com/thing:34829](https://www.thingiverse.com/thing:34829)
+- [https://www.thingiverse.com/thing:65081](https://www.thingiverse.com/thing:65081)
+- [https://www.thingiverse.com/thing:907281](https://www.thingiverse.com/thing:907281)
+
 ## Licence
 
 This project is under the [CC-BY Licence](./LICENCE).
