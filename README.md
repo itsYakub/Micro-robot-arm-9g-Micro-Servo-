@@ -3,8 +3,6 @@
 This is my attempt of building and programming my first ever circuit.
 It's programmed using an Arduino Uno R3 board and 5 SG90 Micro Servomotors.
 
-[Watch the video](./res/mp4/video.mp4)
-
 ## Prerequesites
 
 ### Software:
