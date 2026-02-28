@@ -3,7 +3,7 @@
 This is my attempt of building and programming my first ever circuit.
 It's programmed using an Arduino Uno R3 board and 5 SG90 Micro Servomotors.
 
-![Video Showcase](./res/mp4/video.mp4)
+[![Watch the video](https://raw.githubusercontent.com/itsYakub/Micro-robot-arm-9g-Micro-Servo-/master/res/mp4/video.mp4)](https://raw.githubusercontent.com/itsYakub/Micro-robot-arm-9g-Micro-Servo-/master/res/mp4/video.mp4)
 
 ## Prerequesites
 
